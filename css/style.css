@@ -34,31 +34,31 @@ header {
   margin-bottom: 150px;
 }
 
-.banner {
+.slider {
   width: 60%;
   margin: 0 auto;
   text-align: center;
   color: #fff;
 }
 
-.banner h1 {
+.slider h1 {
   margin-bottom: 35px;
   font-size: 55px;
   text-transform: uppercase;
   font-weight: 800;
 }
 
-.banner h1 span {
+.slider h1 span {
   color: #f7600e;
   font-size: 55px;
   font-weight: 800;
 }
 
-.banner p {
+.slider p {
   margin-bottom: 65px;
 }
 
-.header-btn {
+.slider-btn {
   margin-bottom: 150px;
 }
 
@@ -273,9 +273,9 @@ h3 {
   border-radius: 20px;
 }
 
-/* clint  */
+/* client  */
 
-.clint {
+.client {
   padding: 100px 0;
   background: url(../img/bg2.jpg);
   background-repeat: no-repeat;
@@ -295,13 +295,13 @@ h3 {
   margin-top: 100px;
 }
 
-.name {
+.text {
   font-size: 20px;
   margin-bottom: 40px;
   font-style: italic;
 }
 
-.c-name {
+.name {
   font-weight: 600;
 }
 
